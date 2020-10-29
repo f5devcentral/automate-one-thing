@@ -1,30 +1,22 @@
-# Solutions Engineering Template Repository
-A template repository that contains all required files (LICENSE, SUPPORT, CONTRIBUTING, etc) as outlined in the org standards.  
-
-
-The sections below are recommended in your project's README.md file. 
+# Automate One Thing
+Automate One Thing (A1T) is an initiative to help F5 customers to start using automation to tackle business impacting tasks.  
 
 ## Overview
-Provide a short overview of the project.
+Automate One Thing consists of three components:
+ - Sales or Professional Service Workshops
+ - Training
+ - Examples
+
+ This repository houses material for the various components. 
 
 ## Getting Started
-Provide a quick example of how to use your code.  This should provide the user with a launch point to quickly see what the project can offer them. 
-
-## Installation
-Outline the requirements and steps to install this project. 
-
-## Usage
-Outline how the user can use your project and the various features the project offers. 
-
-## Development
-Outline any requirements to setup a development environment if someone would like to contribute.  You may also link to another file for this information. 
+If you're new to A1T and would like to start please check out the [labs](https://f5devcentral.github.io/automate-one-thing) in our training material.
 
 ## Support
 For support, please open a GitHub issue.  Note, the code in this repository is community supported and is not supported by F5 Networks.  For a complete list of supported projects please reference [SUPPORT.md](SUPPORT.md).
 
 ## Community Code of Conduct
 Please refer to the [F5 DevCentral Community Code of Conduct](code_of_conduct.md).
-
 
 ## License
 [Apache License 2.0](LICENSE)
